@@ -1,0 +1,20 @@
+{
+  "name": "zq-utils",
+  "version": "1.0.0",
+  "description": "Javascript",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadow-Fiend/zq-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadow-Fiend/zq-utils/issues"
+  },
+  "homepage": "https://github.com/shadow-Fiend/zq-utils#readme"
+}
