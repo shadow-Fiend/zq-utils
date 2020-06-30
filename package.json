@@ -1,11 +1,10 @@
 {
   "name": "zq-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Javascript",
-  "main": "./dist/bundle.js",
+  "main": "./build/bundle.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,8 +18,7 @@
   },
   "homepage": "https://github.com/shadow-Fiend/zq-utils#readme",
   "devDependencies": {
-    "clean-webpack-plugin": "^3.0.0",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12"
+    "@babel/cli": "^7.10.3",
+    "@babel/core": "^7.10.3"
   }
 }
